@@ -49,6 +49,6 @@
 - `data/social_media_compare_dummy.csv`
 
 ##### Output
-- `data\youtube_social_media_active_users.csv`
+- `data/youtube_social_media_active_users.csv`
   - Cols: platform,month,active\_user,news\_user,perc\_news_users,date
 
